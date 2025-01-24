@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Fraccion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fraccion\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Fraccion()
+comment2.params=numerador\ denominador
+comment2.target=Fraccion(int,\ int)
+comment3.params=
+comment3.target=int\ getNumerador()
+comment4.params=
+comment4.target=int\ getDenominador()
+comment5.params=numerador
+comment5.target=void\ setNumerador(int)
+comment6.params=denominador
+comment6.target=void\ setDenominador(int)
+comment7.params=otraFraccion\ Fraccion
+comment7.target=int\ sumar(int,\ int)
+comment8.params=otraFraccion\ Fraccion
+comment8.target=int\ multiplicar(int,\ int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
